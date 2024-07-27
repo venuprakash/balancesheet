@@ -1,4 +1,4 @@
-<h1>Balance Sheet</h1>
+<h1>FreeCodeCamp - Balance Sheet</h1>
 
 <h3>https://venuprakash.github.io/balancesheet/</h3>
 
